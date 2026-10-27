@@ -1,6 +1,6 @@
 # List of other firmware
 
-This list covers beta builds of Android and custom ROMs.
+This list covers beta builds of Android, Generic System Images (GSIs) and custom ROMs.
 
 | Device | Android | Status | Notes |
 |---|---|---|---|
