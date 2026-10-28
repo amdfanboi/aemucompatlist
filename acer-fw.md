@@ -5,3 +5,4 @@
 | Acer beTouch E110 | Android 1.5 | Works only on AE+ | Phone GPU option has to be disabled |
 | Acer beTouch E120 | Android 2.1 | Works only on AE+ | Phone GPU option has to be disabled, OS may also crash in random moments | 
 | Acer beTouch E130 | Android 2.1 | Works only on AE+ | Phone GPU option has to be disabled, OS may also crash in random moments | 
+| Acer Iconia A100 | Android 3.0 | Doesn't boot | Both vanilla AEmulator and AEmulator+ treat it as Android 2.3, also both of them only start binderd and nothing else (could be misidentification? missing boot.img?) |
