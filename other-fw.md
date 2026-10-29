@@ -14,6 +14,7 @@ Generic System Images (GSIs):
 
 | Device | Android | Status | Notes |
 |---|---|---|---|
+| Samsung Galaxy Note 3 LTE | crDroid v7 GSI (Android 11) | Doesn't boot | Crashes early on vanilla AEmulator. On AEmulator+, it does try to boot but fails with binderd exiting with code 137 |
 | Google Pixel 7 Pro (cheetah) | HentaiOS GSI (Android 15) | Doesn't boot | It does show the boot screen but crashes after a few moments, happens on both vanilla AEmulator and AEmulator+ |
 | Generic System | LineageOS 23.2 GSI (Android 16, no GApps, EROFS) | Doesn't boot | It does show the boot screen but crashes after a few moments, happens on both vanilla AEmulator and AEmulator+ |
 
