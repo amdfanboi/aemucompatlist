@@ -1,6 +1,6 @@
 # List of other firmware
 
-This list covers beta builds of Android, Generic System Images (GSIs) and custom ROMs.
+Beta builds of Android:
 
 | Device | Android | Status | Notes |
 |---|---|---|---|
@@ -9,6 +9,16 @@ This list covers beta builds of Android, Generic System Images (GSIs) and custom
 | Google Nexus One (passion) | Android 2.3 build GRF36 | Works (kind of) | On vanilla AEmulator and AEmulator+, wallpaper and apps list doesn't render at all. |
 | Motorola Xoom MZ600 (stingray) | Android 4.0 build IRK22 | Boots only on AE+ | Graphics are glitched no matter what options are set |
 | Google Galaxy Nexus (maguro) | Android 4.1 build IRL46 | Boots | Graphics are glitched on default settings. if HWUI is disabled, the wallpaper gets rendered but nothing else. Disabling GPU causes the firmware to enter boot loop. | 
-| Samsung Galaxy Y (GT-S5360) | Cyanogenmod 9.2 | Works | HWUI has to be disabled on both vanilla AEmulator and AEmulator+ or the OS will be unusable due to glitched graphics. |
+
+Generic System Images (GSIs):
+
+| Device | Android | Status | Notes |
+|---|---|---|---|
 | Google Pixel 7 Pro (cheetah) | HentaiOS GSI (Android 15) | Doesn't boot | It does show the boot screen but crashes after a few moments, happens on both vanilla AEmulator and AEmulator+ |
 | Generic System | LineageOS 23.2 GSI (Android 16, no GApps, EROFS) | Doesn't boot | It does show the boot screen but crashes after a few moments, happens on both vanilla AEmulator and AEmulator+ |
+
+Custom ROMs:
+
+| Device | Android | Status | Notes |
+|---|---|---|---|
+| Samsung Galaxy Y (GT-S5360) | Cyanogenmod 9.2 | Works | HWUI has to be disabled on both vanilla AEmulator and AEmulator+ or the OS will be unusable due to glitched graphics. |
