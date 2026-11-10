@@ -15,8 +15,9 @@ Generic System Images (GSIs):
 | Device | Android | Status | Notes | Link |
 |---|---|---|---|---|
 | Samsung Galaxy Note 3 LTE | crDroid v7 GSI (Android 11) | Doesn't boot | Crashes early on vanilla AEmulator. On AEmulator+, it does try to boot but fails with binderd exiting with code 137 | - |
+| Xiaomi POCO X3 NFC | LegionOS GSI (Android 13) | Works only on AEmu+ | Doesn't boot on vanilla AEmulator. Works on AEmulator+ with default settings. | [Mediafire](https://www.mediafire.com/file/yz91qurr08ma918) |
 | AOSP on ARM64 | Android 14 GSI | Doesn't boot | It does show the boot screen but crashes after a few moments, happens on both vanilla AEmulator and AEmulator+ | - |
-| Google Pixel 7 Pro (cheetah) | HentaiOS GSI (Android 15) | Doesn't boot | It does show the boot screen but crashes after a few moments, happens on both vanilla AEmulator and AEmulator+ | - |
+| Google Pixel 7 Pro (cheetah) | HentaiOS GSI (Android 15) | Works only on AEmu+ | Doesn't boot on vanilla AEmulator. On AEmulator+, it does boot and even show the lock screen but crashes after a few moments (maybe my phone has not enough RAM?) | - |
 | Generic System | LineageOS 23.2 GSI (Android 16, no GApps, EROFS) | Doesn't boot | It does show the boot screen but crashes after a few moments, happens on both vanilla AEmulator and AEmulator+ | - |
 
 Custom ROMs:
